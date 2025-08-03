@@ -28,7 +28,7 @@ I hold a BSc in Accounting from the University of Nigeria, Nsukka, and transitio
 
 🌐 **Connect with Me**
 - **Portfolio:** [sophiajacob.my.canva.site](https://sophiajacob.my.canva.site)  
-- **LinkedIn:** [linkedin.com/in/sophia-jacob-780637282](https://linkedin.com/in/sophia-jacob-780637282)  
+- **LinkedIn:** [linkedin.com/in/sophia-jacob-](https://linkedin.com/in/sophia-jacob-)  
 - **Email:** sophiajacob753@gmail.com
 
 ---
