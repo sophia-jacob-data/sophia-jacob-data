@@ -18,7 +18,7 @@ I hold a BSc in Accounting from the University of Nigeria, Nsukka, and transitio
 ---
 
 📁 **Featured Projects**
-- **Blinkit Grocery Sales Dashboard** → [View Details](#)  
+- **Blinkit Grocery Sales Analysis** → [View Details](#)  
 - **Cafe Sales Analysis Report** → [View Details](#)  
 - **E-commerce SQL Analytics** → [View Details](#)
 
